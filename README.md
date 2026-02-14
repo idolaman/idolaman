@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ido 👋
 
-<!--
-**idolaman/idolaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Tel Aviv | 🛠️ Founding Engineer @ Noma Security | 🥋 Judo Black Belt
 
-Here are some ideas to get you started:
+TypeScript · Go · Python · macOS · AI Agents · MCP · Real-time Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a builder focused on AI-powered developer tools, macOS applications, and real-time data platforms. Currently deep in the world of agentic engineering—building tools that close the gap between "vibe-coding" and production-ready software.
+
+### 🚀 Active Projects
+- **[Galactic](https://github.com/idolaman/galactic)** – My flagship project. A macOS application designed to redefine spatial productivity and streamline your desktop workflow.
+- **[Agentboard](https://github.com/idolaman/Agentboard)** – A unified sidebar for VS Code and Cursor to monitor and control all your AI agents (Claude, GPT, etc.) in a single view.
+- **[Idletime](https://github.com/idolaman/idletime)** – A Chrome extension to visualize and reclaim your digital focus by tracking and managing idle periods.
+
+### 🛠️ What I'm Doing
+- **Founding Engineering:** Building real-time data platforms from scratch and solving complex security challenges at Noma Security.
+- **Agentic Workflows:** Exploring the Model Context Protocol (MCP) to expand the capabilities of AI-native IDEs.
+- **Desktop Development:** Crafting high-performance, tool-driven experiences for the Mac ecosystem.
+
+### 🥋 Beyond the IDE
+- **Judo:** Black belt and silver medalist in the Israel Judo Championship.
+- **Anime:** Always down to discuss *One Piece*.
+
+### 📫 Connect
+[Twitter/X](https://x.com/idolavix) · [LinkedIn](https://www.linkedin.com/in/ido-lavi-05a769155/)
